@@ -1,0 +1,39 @@
+Thank you for downloading Gomuku Online! Hope you enjoy it!
+
+Board grid:
+"Free for personal, educational, editorial and commercial use."
+Source: https://www.supercoloring.com/paper-crafts/go-board-13x13-printable-board-game
+
+Button press sound and button release sound:
+Creative Commons 0 License
+Source: https://freesound.org/people/aphom000/sounds/687105/
+
+TAB sound and place stone sound: 
+Creative Commons 0 License
+Source: https://freesound.org/people/MATRIXXX_/sounds/345991/
+
+Font:
+SIL Open Font License, version 1.1
+Source: https://github.com/maoken-fonts/KNBobohei
+
+Logo font:
+1001Fonts Free For Commercial Use License (FFC)
+https://www.1001fonts.com/kamikaze-font.html
+
+All emojis:
+CC BY-SA 4.0 license
+Source: https://openmoji.org/library/
+
+All other sprites:
+license info: https://www.gamedeveloperstudio.com/license.php
+Source: Game Developer Studio.com 
+(Please don't reuse/redistribute for commercial purpose)
+
+All avatars:
+Unity EULA License
+Source: https://assetstore.unity.com/packages/2d/gui/icons/anime-avatars-01-225311
+(Please don't reuse/redistribute for commercial purpose)
+
+Music:
+Creative Commons License
+Source: https://www.aigei.com/space/6900849
